@@ -4,7 +4,6 @@ Website è un progetto creato per provare **V0** e testarne le funzionalità.
 
 ![Next.js Logo](https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg)
 
-![Vercel Logo](https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png)
 
 ## 🚀 Tecnologie Utilizzate
 - [V0](https://v0.dev/) per la generazione dell'interfaccia utente
@@ -71,9 +70,6 @@ Se vuoi modificare il design dell'interfaccia generata con V0, puoi:
 - Modificare direttamente i file in `src/components`
 - Utilizzare la documentazione di V0 per personalizzare i componenti
 
-## 📜 Licenza
-Specificare il tipo di licenza del progetto (MIT, GPL, ecc.).
 
----
-📩 Per qualsiasi domanda o suggerimento, contattami su [email o link a un profilo social].
+
 
